@@ -1,0 +1,8 @@
+1) Activate environment:
+   .\venv\Scripts\Activate.ps1
+
+2) Run app:
+   streamlit run app.py
+
+(Only if venv missing)
+python -m venv venv
