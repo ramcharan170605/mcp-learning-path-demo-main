@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Learning Path Generator with Model Context Protocol (MCP)
 
 This project is a Streamlit-based web application that generates personalized learning paths using the Model Context Protocol (MCP). It integrates with various services including YouTube, Google Drive, and Notion to create comprehensive learning experiences.
@@ -63,4 +62,3 @@ The application will be available at `http://localhost:8501` by default.
 =======
 # mcp-learning-path-demo-main
 An MCP-powered AI application using an LLM (Google Gemini) to generate personalized day-wise learning paths by orchestrating multiple tools in real time. It leverages Cursor AI as an MCP host and integrates Pipedream MCP server URLs to automatically create YouTube playlists and structured learning documents in Google Drive or Notion.
->>>>>>> 5abb426bb024c2fe4f134996b7cd9694ef5ecb6c
