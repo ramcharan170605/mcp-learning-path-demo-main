@@ -1,9 +1,0 @@
-Eleven Lab's API key - sk_4d7b886cf13726157c5cadbefe00d8737488a628eab281f0
-
-Twillio's Recovery code: T5FA3X8ZY2TD5TNWD5DQRETJ
-
-Phone number (Twillio) - +19894738017
-
-Gemini API key - AIzaSyDkm391eVaH-pcqbnH6tssnVimUPpbfWcU
-Youtube MCP server URL - https://mcp.pipedream.net/9e7dd43b-ac9a-49c5-921a-d6d60800a1c6/youtube_data_api
-Google Drive's MCP server URL - https://mcp.pipedream.net/9e7dd43b-ac9a-49c5-921a-d6d60800a1c6/google_drive
