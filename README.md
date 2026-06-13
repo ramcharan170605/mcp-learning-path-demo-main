@@ -3,7 +3,7 @@
 This project is a Streamlit-based web application that generates personalized learning paths using the Model Context Protocol (MCP). It integrates with various services including YouTube, Google Drive, and Notion to create comprehensive learning experiences.
 
 Project HLD
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/226ae788-763b-4284-90d1-8acb9f5d0648" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/226ae788-763b-4284-90d1-8acb9f5d0648" />
 
 ## Features
 
